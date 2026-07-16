@@ -41,8 +41,8 @@ The circuit determines the winner based on the two players' inputs using Boolean
 
 ## Project Structure
 
-- rock-paper-scissors-digital-logic.circ
-
+- `rock-paper-scissors-digital-logic.circ` — complete Logisim circuit
+- `Report.pdf` — circuit design explanation, truth tables, diagrams and testing results
 ---
 
 ## Author
